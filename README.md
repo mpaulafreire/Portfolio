@@ -33,4 +33,4 @@ git clone https://github.com/mpaulafreire/Portfolio.git
 Maria Paula Freire
 
 - GitHub: https://github.com/mpaulafreire
-- LinkedIn: (adicione o link do seu LinkedIn)
+- LinkedIn: (www.linkedin.com/in/mpaulafreire)
